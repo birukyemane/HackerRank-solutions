@@ -1,6 +1,7 @@
 // https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 // Difficulty : Easy
 // Max Score: 10
+// Author: Biruk Yemane
 
 function breakingRecords(scores) {
     let highScores = [scores[0]];
