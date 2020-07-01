@@ -1,6 +1,6 @@
 // https://www.hackerrank.com/challenges/apple-and-orange/problem?h_r=next-challenge&h_v=zen
 // Easy 
-// Max score 10
+// Max score 10 
 
 function countApplesAndOranges(s, t, a, b, apples, oranges) {
     let applesLanding = apples.map(apple=>apple+a);
