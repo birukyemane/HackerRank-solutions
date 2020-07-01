@@ -1,7 +1,7 @@
 // https://www.hackerrank.com/challenges/between-two-sets/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 // Dificulty Easy
 // Max Score : 10
-// author : Biruk Yemane
+// author : Biruk Yemane 
 
 function getTotalX(a, b) {
     // Write your code here
