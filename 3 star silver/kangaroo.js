@@ -31,7 +31,7 @@ function theyMeet(firstPos,secondPos,firstSpeed,secondSpeed){
         secondPos += secondSpeed;
     }
     if (firstPos===secondPos){  
-        return 1;  
+        return 1;   
     } else {
         return 0;
     }
