@@ -32,7 +32,7 @@ function theyMeet(firstPos,secondPos,firstSpeed,secondSpeed){
     }
     if (firstPos===secondPos){  
         return 1;   
-    } else {
+    } else { 
         return 0;
     }
 }
