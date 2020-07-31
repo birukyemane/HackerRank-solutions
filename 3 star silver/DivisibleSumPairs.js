@@ -14,5 +14,5 @@ function divisibleSumPairs(n, k, ar) {
             }
         }
     }
-    return noOfPairs;         
+    return noOfPairs;          
 }
