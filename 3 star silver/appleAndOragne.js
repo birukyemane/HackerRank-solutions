@@ -13,4 +13,4 @@ function countApplesAndOranges(s, t, a, b, apples, oranges) {
     })
     console.log(applesInRange.length)
     console.log(orangesInRange.length)
-}
+} 
