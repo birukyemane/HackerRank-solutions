@@ -11,6 +11,6 @@ function countApplesAndOranges(s, t, a, b, apples, oranges) {
     let orangesInRange = orangesLanding.filter(orange=>{
         if(orange>=s && orange<=t) return true;
     })
-    console.log(applesInRange.length) 
+    console.log(applesInRange.length)  
     console.log(orangesInRange.length)
 } 
